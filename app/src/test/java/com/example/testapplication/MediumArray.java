@@ -3,7 +3,7 @@ package com.example.testapplication;
 import org.junit.Test;
 import java.util.*;
 
-public class MediumDifficulty {
+public class MediumArray {
 
     /**
      * 给定一个长度为n的数组arr，返回arr的最长无重复元素子数组的长度，无重复指的是所有数字都不相同。
